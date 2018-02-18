@@ -1,0 +1,5 @@
+I am tweeting random things from an elixir app
+This is a random tweet from an Elixir app
+I wrote an Elixir app that tweets random things
+Elixir is tweeting this tweet not me.
+elana is super awesome elana is super awesome elana is super awesome elana is super awesome elana is super awesome elana is super awesome elana is super awesome elana is super awesome elana is super awesome elana is super awesome
